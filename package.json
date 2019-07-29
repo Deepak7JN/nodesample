@@ -1,0 +1,27 @@
+{
+  "name": "express-adminlte",
+  "version": "1.0.0",
+  "description": "Node / Express / MongoDB / AdminLTE",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "karthick",
+  "license": "ISC",
+  "dependencies": {
+    "alert-node": "^1.2.6",
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars-multi": "^0.2.31",
+    "express-session": "^1.16.2",
+    "handlebars": "^4.1.2",
+    "hbs": "^4.0.4",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.6.7",
+    "nodemailer": "^6.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
